@@ -1,1 +1,1 @@
-{ "run_list": [ "tvdinner" ], "release_dir": "/Users/davidnghiem/meh" }
+{ "run_list": [ "tvdinner", "demo" ] }
