@@ -1,0 +1,3 @@
+#!/bin/bash
+
+exec $(bundle show tvdinner)/libexec/compare config/noop.json
