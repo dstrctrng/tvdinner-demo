@@ -1,9 +1,3 @@
-PATH
-  remote: /Users/davidnghiem/work/tvdinner
-  specs:
-    tvdinner (0.0.4)
-      chef
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -49,10 +43,12 @@ GEM
     rest-client (1.6.7)
       mime-types (>= 1.16)
     systemu (2.5.2)
+    tvdinner (0.0.5)
+      chef
     yajl-ruby (1.1.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  tvdinner!
+  tvdinner
