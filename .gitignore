@@ -1,0 +1,5 @@
+/vendor/bundle
+/.bundle
+/var/chef
+/tmp
+/LICENSE
